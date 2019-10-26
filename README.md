@@ -24,8 +24,8 @@ iOS SDK (>11.0)
 Arduino IDE
 
 ### Slides for product
-https://slides.com/kazihaque/deck/edit
-https://slides.com/yusra_shahid/deck/edit
+https://slides.com/kazihaque/deck
+https://slides.com/yusra_shahid/deck
 
 
 ## Authors
