@@ -23,6 +23,10 @@ iOS SDK (>11.0)
 *Smart Wearable Band
 Arduino IDE
 
+### Slides for product
+https://slides.com/kazihaque/deck/edit
+https://slides.com/yusra_shahid/deck/edit
+
 
 ## Authors
 
